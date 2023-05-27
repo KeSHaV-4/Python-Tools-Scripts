@@ -8,7 +8,7 @@ print('''          _______  _          ______   _______  _______  _______  _____
 | |   | || (\ (   | |        | |   ) || (      | |      | |   | || |   ) || (      | (\ (   
 | (___) || ) \ \__| (____/\  | (__/  )| (____/\| (____/\| (___) || (__/  )| (____/\| ) \ \__
 (_______)|/   \__/(_______/  (______/ (_______/(_______/(_______)(______/ (_______/|/   \__/ 
-Made By: Keshav Thakur  {GitHub Profile-->Keshav-4}''')
+Made By: Keshav Thakur  {GitHub Profile-->KeSHaV-4}''')
 # Prompt the user for input
 user_input = input("Enter a string with URL encoded characters: ")
 
